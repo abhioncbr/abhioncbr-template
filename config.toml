@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "Business Title"
-author = "Business Author Name"
+title = "abhioncbr page"
+author = "Abhishek Sharma"
 defaultContentLanguage = "en"
 language = "en-US"
 paginate = 3
@@ -8,7 +8,7 @@ paginate = 3
 theme = "template-theme-hermit"
 
 [params]
-    description = "Business description."
+    description = "Personal Page Built Using Hugo Template."
     favicon = ""
     logo = ""
 
@@ -55,12 +55,13 @@ theme = "template-theme-hermit"
     address = ""
 
 [params.social]
-    twitter   = "https://twitter.com/"
+    medium    = "https://medium.com/@abhioncbr"
+    github    = "https://github.com/abhioncbr"
+    linkedin  = "https://www.linkedin.com/in/sharmaabhishek11/"
+    twitter   = "https://twitter.com/abhioncbr"
     facebook  = ""
-    github    = ""
     instagram = ""
     youtube   = ""
-    linkedin  = ""
     meetup    = ""
     medium    = ""
 
