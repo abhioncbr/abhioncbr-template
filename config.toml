@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "abhioncbr page"
+title = "Abhioncbr Page"
 author = "Abhishek Sharma"
 defaultContentLanguage = "en"
 language = "en-US"
@@ -69,4 +69,4 @@ theme = "template-theme-hermit"
     copy = "" # Empty for default content
 
 [taxonomies]
-  tag = "tags"    
+  tag = "tags"
