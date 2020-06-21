@@ -63,7 +63,6 @@ theme = "template-theme-hermit"
     instagram = ""
     youtube   = ""
     meetup    = ""
-    medium    = ""
 
 [params.copy] # Copyright
     copy = "" # Empty for default content
